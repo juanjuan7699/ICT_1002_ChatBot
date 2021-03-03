@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1605613355 source:c:\users\mayma\onedrive\documents\github\chatbot\main.c
+	<ctype.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chat1002.h"
+
+1605606896 c:\users\mayma\onedrive\documents\github\chatbot\chat1002.h
+	<stdio.h>
+
+1606910015 source:c:\users\mayma\onedrive\documents\github\chatbot\knowledge.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"chat1002.h"
+
+1606910654 source:c:\users\mayma\onedrive\documents\github\chatbot\chatbot.c
+	<stdio.h>
+	<string.h>
+	"chat1002.h"
+
