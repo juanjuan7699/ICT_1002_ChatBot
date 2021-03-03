@@ -1,5 +1,8 @@
 # ICT_1002_ChatBot
 
+![image](https://user-images.githubusercontent.com/71871190/109764444-83697b00-7c2e-11eb-8f1c-07187f4e570a.png)
+
+
 ## Objective
 Chatbots – computer programs that can respond to queries typed in natural language – have recently
 become a popular addition to web sites and other interactive applications.
